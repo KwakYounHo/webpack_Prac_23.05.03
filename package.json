@@ -1,0 +1,12 @@
+{
+  "name": "webpack_prac_23.05.03",
+  "version": "1.0.0",
+  "description": "1. 프로젝트 생성",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

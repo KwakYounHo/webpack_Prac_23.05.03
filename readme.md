@@ -10,7 +10,7 @@
 8. webpack.config.js파일에서 정의를 수정하였다.
   - 엔트리 파일 : index.js
   - 아웃풋 파일 : index.testBundle.js
-9. cli에 npx webpack build 입력(webpack 실행하기)
+9. cli에 npx webpack build 입력(webpack 실행하기)  
   a. cli에서 webpack을 실행하는 커맨드
   b. npx는 npm + execute(실행)의 합성어입니다.
     - 의존하고 있는 모듈(패키지)를 실행할 때 사용됩니다.

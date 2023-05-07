@@ -1,7 +1,7 @@
 // config파일의 위치는 항상 최상위경로
-// ESM 방식으로 모듈을 만들어 볼 계획
+// commonJS방식으로 변경해 보았다
 
-export default {
+module.export =  {
   entry  : "./index.js",
   output : {
     filename : "./index.testBundle.js"
